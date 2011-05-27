@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.3.0
-Release:	%mkrel 1
+Release:	%mkrel 2
 Summary:	Interface to AT&T's GraphViz tools
 License:	PHP License
 Group:		Development/PHP
