@@ -8,7 +8,7 @@ Release:	5
 Summary:	Interface to AT&T's GraphViz tools
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Image_GraphViz/
+URL:		https://pear.php.net/package/Image_GraphViz/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
